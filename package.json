@@ -1,5 +1,5 @@
 {
-  "name": "hello-npm-world",
+  "name": "console-printer-utility",
   "version": "1.0.0",
   "description": "A npm publish test application",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DannyWhyte/hello-npm-world.git"
+    "url": "git+https://github.com/DannyWhyte/console-printer-utility.git"
   },
   "keywords": [
     "console.log"
@@ -16,7 +16,7 @@
   "author": "Danish Galiyara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DannyWhyte/hello-npm-world/issues"
+    "url": "https://github.com/DannyWhyte/console-printer-utility/issues"
   },
-  "homepage": "https://github.com/DannyWhyte/hello-npm-world#readme"
+  "homepage": "https://github.com/DannyWhyte/console-printer-utility#readme"
 }
